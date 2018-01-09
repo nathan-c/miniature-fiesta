@@ -1,0 +1,7 @@
+*.obj
+*.dll
+*.lib
+*.exe
+*.pdb
+*.exp
+*.netmodule
